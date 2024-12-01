@@ -1,4 +1,4 @@
-# Speak to Grandma
+# Speech-Enhancement-Pytorch
 
 ## Objectives
 
